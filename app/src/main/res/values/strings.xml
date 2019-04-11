@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenPDF</string>
+    <string name="title_activity_view_pdf">عرض ملف PDF</string>
+</resources>
